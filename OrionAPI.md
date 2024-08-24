@@ -3,7 +3,7 @@ This documentation is for the stable release of Orion Library (ttwizz edition).
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ttwizz/Roblox/master/Orion.lua", true))()
+local OrionLib = loadstring(game:HttpGet("https://twix.cyou/Orion.txt", true))()
 ```
 
 
